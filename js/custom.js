@@ -63,9 +63,9 @@
       // else:
 
       images: [
-        "3.jpg",
         "2.jpg",
-        "1.jpg"
+        "1.jpg",
+        "3.jpg"
       ],
 
       onStart: function() {},
